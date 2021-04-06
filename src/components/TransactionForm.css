@@ -1,0 +1,11 @@
+.transform {
+  border-radius: 25px;
+  border: green;
+  border: 2px solid #73ad21;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  width: 300px;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+}
